@@ -1,0 +1,193 @@
+1671325675799	geckodriver	INFO	Listening on 127.0.0.1:61303
+1671325676321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileutyEGK"
+*** You are running in headless mode.
+1671325677041	Marionette	INFO	Marionette enabled
+1671325677049	Marionette	INFO	Listening on port 61319
+Read port: 61319
+WebDriver BiDi listening on ws://127.0.0.1:61304
+1671325677259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileutyEGK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61304/devtools/browser/106bfd8b-4388-45df-a970-04fb7c142073
+1671325691851	geckodriver	INFO	Listening on 127.0.0.1:61372
+1671325692360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilej2wvDe"
+1671325692690	Marionette	INFO	Marionette enabled
+1671325692695	Marionette	INFO	Listening on port 61381
+Read port: 61381
+WebDriver BiDi listening on ws://127.0.0.1:61373
+1671325692804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilej2wvDe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61373/devtools/browser/2becee3c-ac56-4893-bbf2-1690fc814e64
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671326295496	Marionette	INFO	Stopped listening on port 61381
+1671326298460	geckodriver	INFO	Listening on 127.0.0.1:61601
+1671326298971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilefVpbZ2"
+1671326299282	Marionette	INFO	Marionette enabled
+1671326299287	Marionette	INFO	Listening on port 61609
+Read port: 61609
+WebDriver BiDi listening on ws://127.0.0.1:61602
+1671326299388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilefVpbZ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61602/devtools/browser/a880ce2f-1917-41fe-ac93-471a3770b7eb
+1671326381975	Marionette	INFO	Stopped listening on port 61609
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nette" "--remote-debugging-port" "61677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileUYrM5H"
+1671326377865	Marionette	INFO	Marionette enabled
+1671326377870	Marionette	INFO	Listening on port 61684
+WebDriver BiDi listening on ws://127.0.0.1:61677
+Read port: 61684
+1671326378200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileUYrM5H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61677/devtools/browser/5e3446ab-fab9-4889-8af6-29579943b2d5
+1671326499568	Marionette	INFO	Stopped listening on port 61684
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29608, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1671326501991	geckodriver	INFO	Listening on 127.0.0.1:61764
+1671326502498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilePw89fG"
+1671326502801	Marionette	INFO	Marionette enabled
+1671326502806	Marionette	INFO	Listening on port 61772
+Read port: 61772
+WebDriver BiDi listening on ws://127.0.0.1:61765
+1671326502908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilePw89fG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61765/devtools/browser/f9e35284-842b-488c-90f6-399a378adbe9
+1671326613991	Marionette	INFO	Stopped listening on port 61772
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 28740, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1671326616086	geckodriver	INFO	Listening on 127.0.0.1:61836
+1671326616597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileRcO9QF"
+1671326616919	Marionette	INFO	Marionette enabled
+1671326616924	Marionette	INFO	Listening on port 61845
+Read port: 61845
+WebDriver BiDi listening on ws://127.0.0.1:61837
+1671326617027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileRcO9QF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61837/devtools/browser/2ea30b15-ce44-40f7-b164-44039fb64a44
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671326757346	Marionette	INFO	Stopped listening on port 61845
+1671326769375	geckodriver	INFO	Listening on 127.0.0.1:62002
+1671326769902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileIBEEfm"
+1671326770247	Marionette	INFO	Marionette enabled
+1671326770253	Marionette	INFO	Listening on port 62012
+WebDriver BiDi listening on ws://127.0.0.1:62003
+Read port: 62012
+1671326770465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileIBEEfm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62003/devtools/browser/b2698e1a-3e08-41a7-aaa1-85d79a27dea4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671326877741	Marionette	INFO	Stopped listening on port 62012
+1671326880513	geckodriver	INFO	Listening on 127.0.0.1:62153
+1671326881021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileY7OXNN"
+1671326881435	Marionette	INFO	Marionette enabled
+1671326881441	Marionette	INFO	Listening on port 62161
+Read port: 62161
+WebDriver BiDi listening on ws://127.0.0.1:62154
+1671326881545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileY7OXNN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62154/devtools/browser/a15251e2-9951-41bc-b864-cfbfccf68dda
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671326956659	Marionette	INFO	Stopped listening on port 62161
+!!! error running onStopped callback: TypeError: callback is not a function
+1671326958253	geckodriver	INFO	Listening on 127.0.0.1:62220
+1671326958769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilevujIHy"
+1671326959055	Marionette	INFO	Marionette enabled
+1671326959060	Marionette	INFO	Listening on port 62228
+Read port: 62228
+WebDriver BiDi listening on ws://127.0.0.1:62221
+1671326959163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilevujIHy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62221/devtools/browser/15b857c5-4ec4-465c-b97c-43ead0a2bc8d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Can not send request 'hide' because front 'customhighlighter' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671327640797	Marionette	INFO	Stopped listening on port 62228
+1671327645734	geckodriver	INFO	Listening on 127.0.0.1:62543
+1671327646241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilew6QfXK"
+1671327646604	Marionette	INFO	Marionette enabled
+1671327646609	Marionette	INFO	Listening on port 62551
+WebDriver BiDi listening on ws://127.0.0.1:62544
+Read port: 62551
+1671327646836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilew6QfXK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62544/devtools/browser/c3711677-12c4-4b95-99c7-b26f53edb53a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+1671329053159	Marionette	INFO	Stopped listening on port 62551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1671329307370	geckodriver	INFO	Listening on 127.0.0.1:62952
+1671329307888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilePdfpXl"
+1671329308197	Marionette	INFO	Marionette enabled
+1671329308203	Marionette	INFO	Listening on port 62966
+Read port: 62966
+WebDriver BiDi listening on ws://127.0.0.1:62953
+1671329308319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilePdfpXl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62953/devtools/browser/dd9a08c1-40b9-492d-9b5d-b3cd533b0a9c
+1671329313473	Marionette	INFO	Stopped listening on port 62966
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\KRETDA~1\AppData\Local\Temp\rust_mozprofilePdfpXl\protections.sqlite
+1671329407464	geckodriver	INFO	Listening on 127.0.0.1:63147
+1671329407987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileCAX4Oz"
+1671329408324	Marionette	INFO	Marionette enabled
+1671329408330	Marionette	INFO	Listening on port 63155
+WebDriver BiDi listening on ws://127.0.0.1:63148
+Read port: 63155
+1671329408645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileCAX4Oz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63148/devtools/browser/d2205798-7cfb-4596-8f71-93ba508fb1ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+1671329416920	Marionette	INFO	Stopped listening on port 63155
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\KRETDA~1\AppData\Local\Temp\rust_mozprofileCAX4Oz\protections.sqlite
+1671329470654	geckodriver	INFO	Listening on 127.0.0.1:63233
+1671329471172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileCl2ci6"
+1671329471488	Marionette	INFO	Marionette enabled
+1671329471494	Marionette	INFO	Listening on port 63243
+Read port: 63243
+WebDriver BiDi listening on ws://127.0.0.1:63235
+1671329471599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofileCl2ci6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63235/devtools/browser/4ce3a172-5fa9-4d43-86ae-f6261e731fda
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+1671329548513	Marionette	INFO	Stopped listening on port 63243
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1671329551355	geckodriver	INFO	Listening on 127.0.0.1:63350
+1671329551873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilef9WJmU"
+1671329552171	Marionette	INFO	Marionette enabled
+1671329552176	Marionette	INFO	Listening on port 63359
+Read port: 63359
+WebDriver BiDi listening on ws://127.0.0.1:63351
+1671329552286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilef9WJmU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63351/devtools/browser/466bd6a0-15da-4b47-879b-d590f0c12db9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671329658150	Marionette	INFO	Stopped listening on port 63359
+1671329664348	geckodriver	INFO	Listening on 127.0.0.1:63427
+1671329664863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "63428" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilelgczAf"
+1671329665158	Marionette	INFO	Marionette enabled
+1671329665163	Marionette	INFO	Listening on port 63435
+Read port: 63435
+WebDriver BiDi listening on ws://127.0.0.1:63428
+1671329665265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofilelgczAf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63428/devtools/browser/c1295ff8-6f36-4ca2-95c9-364d471a6652
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+1671330179652	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+JavaScript error: https://securepayments.sberbank.ru/mportal3/assets/js/client.1601c2567b9417e24566.js, line 2: Error: Request failed with status code 400
+headless mode.
+1671329801068	Marionette	INFO	Marionette enabled
+1671329801072	Marionette	INFO	Listening on port 63504
+Read port: 63504
+WebDriver BiDi listening on ws://127.0.0.1:63497
+1671329801162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRETDA~1\\AppData\\Local\\Temp\\rust_mozprofile97aTto\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63497/devtools/browser/ad8dbb51-62ca-484e-97c4-b44d5e6cdd1f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+1671330315804	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://securepayments.sberbank.ru."
+JavaScript error: https://securepayments.sberbank.ru/mportal3/assets/js/client.1601c2567b9417e24566.js, line 2: Error: Request failed with status code 400
